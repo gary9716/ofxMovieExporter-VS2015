@@ -1,0 +1,1 @@
+copy the dlls to [openframeworks directory]\export\vs\Win32

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\testApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\addons\ofxMovieExporter\src\ofxMovieExporter.cpp">
+      <Filter>addons\ofxMovieExporter\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter">
+      <UniqueIdentifier>{D1420A91-EB6D-F9D4-D3F0-DAFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\src">
+      <UniqueIdentifier>{610591A4-2922-9A4C-1711-1F61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs">
+      <UniqueIdentifier>{B1E536BC-5E9C-EC0F-D4B0-36FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav">
+      <UniqueIdentifier>{9B30AC77-1000-ED89-E6DD-8EDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include">
+      <UniqueIdentifier>{283F6C3A-BBB8-567E-D64D-7E94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libavcodec">
+      <UniqueIdentifier>{1ACA0A4E-D563-AA46-40A2-D3A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libavdevice">
+      <UniqueIdentifier>{680EBEA3-BC65-5D3C-ABA8-7719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libavfilter">
+      <UniqueIdentifier>{080145A1-5413-52CB-7827-C6D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libavformat">
+      <UniqueIdentifier>{87072F59-ABCE-0CF8-E6CF-5642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libavutil">
+      <UniqueIdentifier>{A567FC4C-51E3-CEA3-1B1F-6A49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libpostproc">
+      <UniqueIdentifier>{05E9408F-3738-26F5-5F34-B3FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMovieExporter\libs\libav\include\libswscale">
+      <UniqueIdentifier>{392481A4-0FFB-1902-AD02-9D47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\testApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\src\ofxMovieExporter.h">
+      <Filter>addons\ofxMovieExporter\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\avcodec.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\avfft.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\dxva2.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\opt.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\vaapi.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\vdpau.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\version.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavcodec\xvmc.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavcodec</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavdevice\avdevice.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavdevice</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavfilter\avcodec.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavfilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavfilter\avfilter.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavfilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavfilter\avfiltergraph.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavfilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavfilter\vsink_buffer.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavfilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavfilter\vsrc_buffer.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavfilter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavformat\avformat.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavformat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavformat\avio.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavformat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavformat\version.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavformat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\adler32.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\aes.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\attributes.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\audioconvert.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\avassert.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\avconfig.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\avstring.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\avutil.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\base64.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\bswap.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\common.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\cpu.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\crc.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\dict.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\error.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\eval.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\fifo.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\file.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\imgutils.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\intfloat_readwrite.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\intreadwrite.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\lfg.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\log.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\lzo.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\mathematics.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\md5.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\mem.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\opt.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\parseutils.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\pixdesc.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\pixfmt.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\random_seed.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\rational.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\samplefmt.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libavutil\sha.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libavutil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libpostproc\postprocess.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libpostproc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\addons\ofxMovieExporter\libs\libav\include\libswscale\swscale.h">
+      <Filter>addons\ofxMovieExporter\libs\libav\include\libswscale</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>

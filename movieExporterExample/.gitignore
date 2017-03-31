@@ -1,0 +1,7 @@
+ipch/
+obj/
+bin/emptyExample_vs2010*
+bin/*.dll
+appCap_vs2010.sdf
+appCap_vs2010.suo
+bin/appCap_vs2010*
